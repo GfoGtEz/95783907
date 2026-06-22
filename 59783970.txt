@@ -1,4 +1,5 @@
 dev-ed-gov-verify.pantheonsite.io
+kitchen-canvas.com
 foodformulasetup.com
 wavebrowser.co
 wavebrowser.com
