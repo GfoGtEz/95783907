@@ -14,6 +14,17 @@ pdf-srv.pdfbamaa.com
 dev-ed-gov-verify.pantheonsite.io
 kitchen-canvas.com
 foodformulasetup.com
+app.shift.com
+tryshift.com
+cdn77-downloads.tryshift.com
+stagingtryshift.com
+shiftapis.com
+profile.shiftapis.com
+websocket.shiftapis.com
+updates.shiftapis.com
+attribution.shiftapis.com
+tryshiftcdn.com
+apps.tryshiftcdn.com
 shift.com
 wavebrowser.co
 wavebrowser.com
